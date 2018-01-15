@@ -1,0 +1,3 @@
+{
+  "db": "Database=Trader;Server=localhost;Integrated Security=SSPI;Application Name=trader"
+}
